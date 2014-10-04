@@ -1,3 +1,5 @@
+<align-center><a href="http://s44.photobucket.com/user/SnippyChris/media/Veritas%20Mod%20Project/VeritasModLightLogo_zpse5354951.png.html" target="_blank"><img src="http://i44.photobucket.com/albums/f37/SnippyChris/Veritas%20Mod%20Project/VeritasModLightLogo_zpse5354951.png" border="0" alt="Veritas Light Background Mod Logo photo VeritasModLightLogo_zpse5354951.png"/></a></center>
+
 VeritasMod
 ==========
 
