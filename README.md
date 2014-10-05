@@ -14,7 +14,7 @@ Mod Team for convenience I have put together a devkit that can install easily to
 The Files
 ===========
 Veritas.esp is the core file. You will need this file to play the mod, or for any of the plugins to work.
-Veritas - Combat AI.esp is a plugin that amps up the Worlds AI to be more realistic and immersive.
+Veritas - Combat AI.esp is a plugin that amps up the Worlds AI to be more realistic and immersive.<br>
 Veritas - Supernatural.esp is a plugin that overhauls all of the supernatural/undead aspects of Skyrim, making Vampires what they should be and Werewolves the dominant predator/aggressor they should be as well.
 
 Veritas - Sundered Kingdoms.esp is the Quest plugin that creates a huge Grand Questline that will take the player over their limits. (See description on the Veritas Thread on Nexus)
@@ -24,18 +24,18 @@ Project Scope
 ============
 =Race Overhaul- New Carryweights, New Abilities, New Positive, Negative Traits.
 
-+Argonian (Done!)<br>
-+Breton (Done!)<br>
-+Colovian Imperial<br>
-+Dunmer (Done!)<br>
-+Altmer (Done!)<br>
-+Khajiit (Done!)<br>
-+Nibenese Imperial (Done!) -Needs Rebalancing<br>
-+Nord (Done!)<br>
-+Orc <br>
-+Reachmen<br> 
-+Redguard (Done!)<br>
-+Bosmer (Done!)<br>
+Argonian (Done!)<br>
+Breton (Done!)<br>
+Colovian Imperial<br>
+Dunmer (Done!)<br>
+Altmer (Done!)<br>
+Khajiit (Done!)<br>
+Nibenese Imperial (Done!) -Needs Rebalancing<br>
+Nord (Done!)<br>
+Orc <br>
+Reachmen<br> 
+Redguard (Done!)<br>
+Bosmer (Done!)<br>
 
 =AI Combat Overhaul- Low level enemies will flee from higher level player, Overcome Enemies will try to flee, High level enemies will fight to the end. Archers are 100% deadly if not killed, groups of Archers will try to get high ground
 Enemies will use more abilities, and battle tactics. Mages will flee when you approach but will pepper you with magic. Bosses will be much more difficult.
