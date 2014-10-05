@@ -9,6 +9,7 @@ In this hub you will find a few files and a few folders. In the Folder labeled p
 The loose files that you find in the main section here is the files we are currently working on ie; Development files.
 
 if you want to test Veritas, we recommend that you download the playtest, as to using the development files you do at your own risk. (Don't say you weren't warned.)
+Mod Team for convenience I have put together a devkit that can install easily to Mod Organizer or Nexus Mod Manager. or you can download the files seperately.
 
 The Files
 ===========
