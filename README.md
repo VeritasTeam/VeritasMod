@@ -24,26 +24,26 @@ Project Scope
 ============
 =Race Overhaul- New Carryweights, New Abilities, New Positive, Negative Traits.
 
-+Argonian (Done!)
-+Breton (Done!)
-+Colovian Imperial
-+Dunmer (Done!)
-+Altmer (Done!)
-+Khajiit (Done!)
-+Nibenese Imperial (Done!) -Needs Rebalancing
-+Nord (Done!)
-+Orc 
-+Reachmen 
-+Redguard (Done!)
-+Bosmer (Done!)
++Argonian (Done!)<br>
++Breton (Done!)<br>
++Colovian Imperial<br>
++Dunmer (Done!)<br>
++Altmer (Done!)<br>
++Khajiit (Done!)<br>
++Nibenese Imperial (Done!) -Needs Rebalancing<br>
++Nord (Done!)<br>
++Orc <br>
++Reachmen<br> 
++Redguard (Done!)<br>
++Bosmer (Done!)<br>
 
 =AI Combat Overhaul- Low level enemies will flee from higher level player, Overcome Enemies will try to flee, High level enemies will fight to the end. Archers are 100% deadly if not killed, groups of Archers will try to get high ground
 Enemies will use more abilities, and battle tactics. Mages will flee when you approach but will pepper you with magic. Bosses will be much more difficult.
 
-Bandits
-Beasts
-Animals
-Bosses
+Bandits<br>
+Beasts<br>
+Animals<br>
+Bosses<br>
 
 =Supernatural Overhaul- More on this as we develop.
 
